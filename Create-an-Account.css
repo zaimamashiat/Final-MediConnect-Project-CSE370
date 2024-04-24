@@ -1,0 +1,84 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.9), rgba(255,255,255,0.9)), url("images/medical-bill-1_custom-42158c69cbe29411fbf708040a00031aeed13cac-s1100-c50.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1026px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 80px;
+  height: 80px;
+  margin: 167px auto 0 295px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -80px 306px 0 auto;
+}
+
+.u-section-1 .u-form-1 {
+  height: 338px;
+  width: 570px;
+  margin: 72px auto 60px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 10px 31px 10px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 846px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 648px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 234px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 486px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 176px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 306px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 260px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 111px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}

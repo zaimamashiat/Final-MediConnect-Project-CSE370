@@ -1,0 +1,67 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/033023-Hollister-Hospital-LV_10-CM.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 580px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  margin: 230px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  margin: 58px 423px 0 auto;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  margin: -45px auto 60px 435px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 223px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 235px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-btn-1 {
+    margin-right: 3px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 327px;
+  }
+}
