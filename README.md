@@ -1,2 +1,1 @@
-# Final MediConnect Project CSE370
- 
+# MediConnect is a dynamic website designed to seamlessly connect patients with doctors, streamlining the process of finding healthcare professionals and scheduling appointments. It empowers patients by providing access to comprehensive information about doctors, including their credentials and availability, facilitating convenient booking of appointments based on individual needs and preferences.
